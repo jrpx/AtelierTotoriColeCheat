@@ -1,2 +1,2 @@
-# AtelierTotoriColeCheat
-A cheat program to change your Atelier Totori saved game to have 600,000 Cole
+# Atelier Totori, Steam Edition Cole (Money) tool. 
+Lets you modify the saved game to have 400,000 or 600,000 Cole
